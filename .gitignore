@@ -2,7 +2,7 @@
 .claude/
 
 # Python virtual environments
-GS/v3/
+GS/v3
 GS/venv/
 
 # Large artifacts (exceed GitHub's 100MB file limit)
