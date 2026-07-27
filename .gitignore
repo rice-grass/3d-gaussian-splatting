@@ -1,0 +1,12 @@
+# Claude Code
+.claude/
+
+# Python virtual environments
+GS/v3/
+GS/venv/
+
+# Large artifacts (exceed GitHub's 100MB file limit)
+GS/data/videos/
+GS/data/processed/*/database.db
+GS/outputs/*/ckpts/
+GS/outputs/*/ply/
